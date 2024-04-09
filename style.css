@@ -208,3 +208,24 @@ body {
 		border-radius: 50%;
 	}
 }
+
+@media screen and (max-width: 425px) {
+    .area {
+        height: 100%;
+    }
+    .context h1 {
+        font-size: 30px;
+    }
+    .calculator{
+        width: 300px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .btn{
+        padding: 15px;
+    }
+    .calculator{
+        width: 250px;
+    }
+    
+}
