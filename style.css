@@ -54,7 +54,9 @@ body {
 }
 
 .btn:hover {
-	background-color: #ddd;
+	background-color: #4e54c8;
+    color: #fff;
+    font-weight: 900;
 }
 
 .clear {
@@ -64,7 +66,7 @@ body {
 
 .equals {
 	grid-column: span 2;
-	background-color: #4caf50;
+	background-color: #90D26D;
 }
 
 
