@@ -58,6 +58,10 @@ body {
     color: #fff;
     font-weight: 900;
 }
+.btn.clicked {
+    background-color: #f2f2f2;
+    transition: background-color 0.3s ease;
+}
 
 .clear {
 	grid-column: span 2;
